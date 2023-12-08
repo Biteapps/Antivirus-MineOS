@@ -1,2 +1,2 @@
-# Antivirus-MineOS
-Возможно нерабочий
+# Antivirus
+Antivirus Mineos
