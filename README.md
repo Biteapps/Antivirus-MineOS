@@ -1,2 +1,3 @@
-# Antivirus
-Antivirus Mineos
+# Антивирус
+
+Простой антивирус для MineOS
